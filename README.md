@@ -1,7 +1,7 @@
 # Lab15
 ## Edgar Santos Chacon Arrospide
 ## P1
-> Creacion de la table
+> Creacion de la tabla
 ``` sql
 CREATE TABLE colegio(
 	codigo integer,
